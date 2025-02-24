@@ -221,4 +221,4 @@ DELETE /api/carparkingdetails/1/
 | **Update Exit Time**     | `PATCH`        | `/api/carparkingdetails/{id}/` | Set `outTime`and calculate `totalSpendTime` |
 | **Delete an Entry**      | `DELETE`       | `/api/carparkingdetails/{id}/` | Remove a car entry                              |
 
-Now, your **API documentation** is complete, simple, and professional! 🚀🔥
+
